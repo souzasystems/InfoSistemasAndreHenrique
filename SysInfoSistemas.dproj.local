@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/08/29 13:31:34.000.720,=C:\Users\andre.henrique\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/30 18:53:40.000.842,=C:\Users\andre.henrique\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/30 18:54:50.000.425,=C:\Users\andre.henrique\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/30 18:55:17.000.596,=C:\Cartas\SysInfoSistemas\Padrao.pas</Transaction>
+    <Transaction>2019/08/30 18:57:39.000.927,=C:\Cartas\SysInfoSistemas\CadastroPadrao.pas</Transaction>
+    <Transaction>2019/08/30 18:58:20.000.700,C:\Users\andre.henrique\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Cartas\SysInfoSistemas\SysInfoSistemas.dproj</Transaction>
+    <Transaction>2019/08/30 18:59:51.000.012,=C:\Cartas\SysInfoSistemas\Unit1.pas</Transaction>
+    <Transaction>2019/08/30 19:00:17.000.893,C:\Cartas\SysInfoSistemas\Unit1.dfm=C:\Cartas\SysInfoSistemas\CadastroClientes.dfm</Transaction>
+    <Transaction>2019/08/30 19:00:17.000.893,C:\Cartas\SysInfoSistemas\Unit1.pas=C:\Cartas\SysInfoSistemas\CadastroClientes.pas</Transaction>
+    <Transaction>2019/08/30 19:04:40.000.740,C:\Cartas\SysInfoSistemas\Padrao.pas=</Transaction>
+    <Transaction>2019/08/30 19:04:45.000.808,C:\Cartas\SysInfoSistemas\CadastroPadrao.pas=</Transaction>
+    <Transaction>2019/08/30 19:04:48.000.967,C:\Cartas\SysInfoSistemas\CadastroClientes.pas=</Transaction>
+    <Transaction>2019/08/30 19:04:57.000.024,=C:\Cartas\SysInfoSistemas\Padrao.pas</Transaction>
+    <Transaction>2019/08/30 19:05:03.000.533,=C:\Cartas\SysInfoSistemas\CadastroPadrao.pas</Transaction>
+    <Transaction>2019/08/30 19:05:11.000.858,=C:\Cartas\SysInfoSistemas\CadastroClientes.pas</Transaction>
+    <Transaction>2019/08/31 11:09:27.000.218,=C:\Cartas\SysInfoSistemas\Unit1.pas</Transaction>
+    <Transaction>2019/08/31 11:09:33.000.124,C:\Cartas\SysInfoSistemas\Clientes.pas=C:\Cartas\SysInfoSistemas\Unit1.pas</Transaction>
+    <Transaction>2019/08/31 12:10:25.000.038,=C:\Cartas\SysInfoSistemas\Unit1.pas</Transaction>
+    <Transaction>2019/08/31 12:10:37.000.018,C:\Cartas\SysInfoSistemas\DataMod.pas=C:\Cartas\SysInfoSistemas\Unit1.pas</Transaction>
+    <Transaction>2019/08/31 12:10:37.000.018,C:\Cartas\SysInfoSistemas\DataMod.dfm=C:\Cartas\SysInfoSistemas\Unit1.dfm</Transaction>
+    <Transaction>2019/08/31 12:14:49.000.682,=C:\Cartas\SysInfoSistemas\Funcoes.pas</Transaction>
+  </Transactions>
+</BorlandProject>
